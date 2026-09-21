@@ -1,0 +1,8 @@
+lever,auc,std,old_auc
+seq_cnn_ref,0.531,0.019,0.507
+esm_contrastive,0.534,0.028,0.558
+esm_crossattn,0.535,0.024,0.554
+esm_multitask,0.555,0.033,0.541
+lantern,0.544,0.024,0.556
+contrastive,0.569,0.043,0.545
+esm_vat,0.543,0.029,

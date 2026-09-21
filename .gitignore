@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+*.log
+logs/
+results/
+data/raw/
+data/splits/
+*.pdb
+FoldX*
+foldx*
+rotabase.txt
+.DS_Store
