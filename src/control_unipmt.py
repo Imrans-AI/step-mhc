@@ -1,5 +1,5 @@
 RESULTS = 'results/bench_common/controls/unipmt/'   # SET FIRST - HANDOFF_9 section 8
-UP='<EXTERNAL_DATA>/unipmt_drive/'; CODE='baselines/UniPMT/code'
+UP='<UNIPMT_DATA>/'; CODE='baselines/UniPMT/code'
 import sys, os, pickle
 import numpy as np, pandas as pd, torch
 import typing as _t, torch.fx._symbolic_trace as _st
